@@ -1,0 +1,86 @@
+[
+    {
+        "brand": "Apple",
+        "model": "iPhone 15 Pro",
+        "price": 999,
+        "specs": {
+            "display": "6.1-inch OLED",
+            "processor": "A17 Bionic",
+            "ram": "8GB",
+            "storage": [
+                "128GB",
+                "256GB",
+                "512GB",
+                "1TB"
+            ],
+            "camera": {
+                "rear": "48MP + 12MP + 12MP",
+                "front": "12MP"
+            },
+            "battery": "3274mAh",
+            "os": "iOS 17"
+        }
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy S24 Ultra",
+        "price": 1199,
+        "specs": {
+            "display": "6.8-inch AMOLED",
+            "processor": "Snapdragon 8 Gen 3",
+            "ram": "12GB",
+            "storage": [
+                "256GB",
+                "512GB",
+                "1TB"
+            ],
+            "camera": {
+                "rear": "200MP + 50MP + 12MP + 10MP",
+                "front": "12MP"
+            },
+            "battery": "5000mAh",
+            "os": "Android 14"
+        }
+    },
+    {
+        "brand": "Google",
+        "model": "Pixel 8 Pro",
+        "price": 999,
+        "specs": {
+            "display": "6.7-inch OLED",
+            "processor": "Google Tensor G3",
+            "ram": "12GB",
+            "storage": [
+                "128GB",
+                "256GB",
+                "512GB"
+            ],
+            "camera": {
+                "rear": "50MP + 48MP + 48MP",
+                "front": "11MP"
+            },
+            "battery": "5050mAh",
+            "os": "Android 14"
+        }
+    },
+    {
+        "brand": "OnePlus",
+        "model": "OnePlus 12",
+        "price": 899,
+        "specs": {
+            "display": "6.82-inch AMOLED",
+            "processor": "Snapdragon 8 Gen 3",
+            "ram": "16GB",
+            "storage": [
+                "256GB",
+                "512GB"
+            ],
+            "camera": {
+                "rear": "50MP + 64MP + 48MP",
+                "front": "32MP"
+            },
+            "battery": "5400mAh",
+            "os": "Android 14"
+        }
+    }
+]
